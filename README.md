@@ -2,9 +2,9 @@
 
 A single-page web app that parses bank statement PDFs, categorizes every transaction, and visualizes spending — **entirely in the browser**. No server, no upload, no API calls. Your financial data never leaves your device.
 
-**Live demo:** _add your deployed URL here (GitHub Pages / Netlify / Vercel)_
+**Live demo:** https://dewanshtrip.github.io/MSUFCU-Statement-Analyzer/
 
-![dashboard screenshot](screenshot.png)
+![dashboard screenshot](https://raw.githubusercontent.com/DewanshTrip/MSUFCU-Statement-Analyzer/main/screenshot.png)
 
 ## Why it's built this way
 
